@@ -14,17 +14,17 @@ Python 2.x is required to run this project.
 
 ## How to Run Project
 
-Download the project zip file to you computer and unzip the file or clone this repository to your desktop.
+1. Download the project zip file to you computer and unzip the files 
 
-Open a command prompt in windows or the terminal in Linux/MAC
+1. Open a command prompt in windows or the terminal in Linux/MAC
 
-Navigate to the project directory and type in the following command:
+1. Navigate to the project directory and type the following command:
 
 ```bash
 python  entertainment_center.py
 ```
 
-Your default browser will launch displaying the movie trailer website.
+4. Your default browser will launch displaying the movie trailer website.
 
 
 ## Resources
