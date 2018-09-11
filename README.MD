@@ -21,7 +21,7 @@ Python 2.x is required to run this project.
 1. Navigate to the project directory and type the following command:
 
 ```bash
-python  entertainment_center.py
+python entertainment_center.py
 ```
 
 4. Your default browser will launch displaying the movie trailer website.
